@@ -1,0 +1,7 @@
+skriv vim [example.txt] för att öppna example.txt med vim från
+git bash.
+
+tryck insert för att börja skriva
+
+tryck escape, shift+kolon(:), wq(write, quit) 
+för att spara det jag skrev och stänga vim
